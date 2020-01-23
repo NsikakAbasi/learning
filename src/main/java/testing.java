@@ -12,5 +12,6 @@ public class testing {
     
     public static void main(String[] args){
         System.out.println("learning github, asdasdasdas ");
+        System.out.println("is this right?");
     }
 }
